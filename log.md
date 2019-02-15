@@ -29,3 +29,19 @@ I'm taking my time through recursion to make sure I understand everything well. 
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 3: [02/14/2019]
+
+**Today's Progress:**
+* PSet 2
+* Peer review
+* Tuples
+* Lists
+
+**Thoughts:**
+I completed PSet 2 with relative ease. During the bisection exercise, I had to take a little more time to think about how my loop and the algorithm was going to work together to give me the result, but I managed. I also did the peer review exercise which gave me an opportunity to look at the code of some of my peers to then analyze my own and see what I could improve. I've liked the elegance of my code and my attempts to write good, clean code, but I need to write more comments. I also want to go back to the PSet and some of the exercises and write them recursively in addition to my iterative solutions. I finished half of lecture 5. I'll probably finish Lecture 5 by tomorrow and also get started on watching Lecture 3 of CS 50.
+
+**Link to work:**
+No commits today.
