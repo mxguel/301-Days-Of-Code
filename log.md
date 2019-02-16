@@ -45,3 +45,16 @@ I completed PSet 2 with relative ease. During the bisection exercise, I had to t
 
 **Link to work:**
 No commits today.
+
+### Day 4: [02/15/2019]
+
+**Today's Progress:**
+* Aliasing
+* Mutation
+* Cloning
+
+**Thoughts:**
+I got some coding in before heading out today. I wanted to make sure I took a look at some stuff before my whole day got started. I'm glad I did as I wasn't able to do much beyond that. I took a look at cloning, aliasing, and mutation. I'm not sure how some of these concepts vary by language. I haven't looked at pointers yet technically in CS50, but I have heard and read about them a little. I think they're coming up in the next lecture so I could get a better scope conceptually. -fmc
+
+**Link to work:**
+No commits today.
