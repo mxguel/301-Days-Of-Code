@@ -46,6 +46,8 @@ I completed PSet 2 with relative ease. During the bisection exercise, I had to t
 **Link to work:**
 No commits today.
 
+
+
 ### Day 4: [02/15/2019]
 
 **Today's Progress:**
@@ -55,6 +57,21 @@ No commits today.
 
 **Thoughts:**
 I got some coding in before heading out today. I wanted to make sure I took a look at some stuff before my whole day got started. I'm glad I did as I wasn't able to do much beyond that. I took a look at cloning, aliasing, and mutation. I'm not sure how some of these concepts vary by language. I haven't looked at pointers yet technically in CS50, but I have heard and read about them a little. I think they're coming up in the next lecture so I could get a better scope conceptually. -fmc
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 5: [02/16/2019]
+
+**Today's Progress:**
+* Functions as objects
+* map()
+* New IDE (CS50)
+
+**Thoughts:**
+I got to code before I head out today (again). I got to look at functions as objects. Something that interests me is how map() works. It seems to return a 'list' type object. I'm saying 'list' type since it's not really a list, but acts like one. I think it works in the same way range() does. I'll try to finish that lecture by Monday, but I want to start taking a look at Lecture 3 for CS50. I've started looking at the notes and will watch the video lectures tomorrow through Monday.
 
 **Link to work:**
 No commits today.
