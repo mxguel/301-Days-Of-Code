@@ -75,3 +75,17 @@ I got to code before I head out today (again). I got to look at functions as obj
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 6: [02/17/2019]
+
+**Today's Progress:**
+* Structures review
+* Dictionaries
+
+**Thoughts:**
+I just reviewed structures. I started learning a little bit about dictionaries as well.
+
+**Link to work:**
+No commits today.
