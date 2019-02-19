@@ -89,3 +89,18 @@ I just reviewed structures. I started learning a little bit about dictionaries a
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 7: [02/18/2019]
+
+**Today's Progress:**
+* Dictionaries
+* Global variables
+* Memoization
+
+**Thoughts:**
+Went deepers into dictionaries. Used a dictionary to count the frequency of a each word appearing in a song's lyrics. I made my own function that cleaned up the song lyrics as well to supplement the lesson. This would remove capitalization and any punctuation (besides apostrophes) so that each word would be counted accurately regardless of its formatting. I then reviewed using dictionaries to determine Fibonacci numbers more efficiently using much less computations in a method called memoization. We finished off by using global variables to compare the number of computations in the old and new way of doing the Fibonacci sequence. I find it interesting that what max() returns depends on the type of its argument. In an exercise, I was able to use it to return me a list with the most items. Building a Hangman game for this next PSet will be challenging but fun.
+
+**Link to work:**
+No commits today.
