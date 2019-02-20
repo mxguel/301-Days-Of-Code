@@ -104,3 +104,21 @@ Went deepers into dictionaries. Used a dictionary to count the frequency of a ea
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 8: [02/19/2019]
+
+**Today's Progress:**
+* PSet 3 MIT Python - Hangman
+* Pointers
+* structs
+* char *
+* malloc
+* free
+
+**Thoughts:**
+CS50 and C shows me how much is abstracted in Python. It's incredible to know how much we don't have to think about while programming in Python. We did get a little bit of a teaser for pointers from MIT Python. The is keyword determinds whether two variables are pointing to the same object. But it wasn't explicitly expressed like in this course. I'm glad that I'm taking both courses concurrently so that I could see the differences between the two languages and appreciate how much Python abstracts for us.
+
+**Link to work:**
+No commits today.
