@@ -122,3 +122,20 @@ CS50 and C shows me how much is abstracted in Python. It's incredible to know ho
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 9: [02/20/2019]
+
+**Today's Progress:**
+* Watched CS50 - Lecture 3
+* Pointers
+* Memory allocation
+* Dereferencing
+* Hexadecimal
+
+**Thoughts:**
+I'm beginning to understand referencing and dereferencing more as I rewatch and work alongside the lecture. Memory allocation is a very interesting concept and one that makes me glad that I am taking CS50. Receiving input from a user seems to be a very complex process that luckily has been abstracted in the course with a function, but I'm wondering if this is going to be something that I will have to deal with in the future when I move on beyond this course.
+
+**Link to work:**
+No commits today.
