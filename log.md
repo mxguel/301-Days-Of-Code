@@ -139,3 +139,18 @@ I'm beginning to understand referencing and dereferencing more as I rewatch and 
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 10: [02/21/2019]
+
+**Today's Progress:**
+* Pointers
+* Dynamic memory allocation
+* Call stacks
+
+**Thoughts:**
+I took my time with pointers and dynamic memory allocation. There are still bits of the latter that I need to go back to fully understand, but pointers were the biggest hurdle for me today (aside from feeling ill). It feels weird that I feel that I understand pointers where at the beginning of the day, I felt like I wasn't even close. I think that once I wake up and review these concepts again tomorrow, I will feel even better about them (especially about malloc()). What made pointers the hardest to understand was the syntax. Syntaxially they could be written better, but I'm glad I took the time to understand. I look forward to working on the PSet.
+
+**Link to work:**
+No commits today.
