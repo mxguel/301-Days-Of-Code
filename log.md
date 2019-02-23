@@ -154,3 +154,19 @@ I took my time with pointers and dynamic memory allocation. There are still bits
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 11: [02/22/2019]
+
+**Today's Progress:**
+* Pointers
+* Dynamic memory allocation
+* Recursion in C
+* Built a web scraper using Beautiful Soup and Python
+
+**Thoughts:**
+WOW! I got good distracted today. I saw that CS50 on Twitch was having a stream on webscraping so I decided to focus my morning and early afternoon on working along with the stream and I'm glad I did. I got some exposure to a couple of tools that I could use for webscraping later and got a little practice with it. I finished watching the shorts for CS50 and cemented the concepts of pointers and memory allocation. I also took a look at recursion in C which was much easier after having seen it in Python. Onto the PSet and then back to some Python.
+
+**Link to work:**
+No commits today.
