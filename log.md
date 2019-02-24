@@ -170,3 +170,18 @@ WOW! I got good distracted today. I saw that CS50 on Twitch was having a stream 
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 12: [02/23/2019]
+
+**Today's Progress:**
+* structs
+* calling lists by reference in Python
+* recursion
+
+**Thoughts:**
+The PSet for CS50 broke so I wasn't able to really work on it. As a result, I decided to take the midterm for MIT Python. Recusion and lists were heavily emphasized. I barely finished in time. I struggled a lot with the last two questions (especially the second to last one with recusion) but I managed to pull through. Apparently, I could call a list by reference in Python to mutate the list without returning the list. I could return a different value which was a very interesting discovery. The PSet 3 looks very tough, but I'm sure that once I take some time to work on it, I'll pull through. 
+
+**Link to work:**
+No commits today.
