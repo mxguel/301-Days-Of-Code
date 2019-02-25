@@ -185,3 +185,18 @@ The PSet for CS50 broke so I wasn't able to really work on it. As a result, I de
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 13: [02/24/2019]
+
+**Today's Progress:**
+* structs
+* bmp files
+* typedef
+
+**Thoughts:**
+As I look through these problems in this PSet, the problem starts getting less and less intimidating. I start realizing how much I understand and how much and how quickly I could learn concepts that are simply extensions of my current knowledge. I still have more reading and exploring to do to finish up this PSet, but my confidence in my ability to keep this journey going keeps rising. Among the catalysts are the people that support me and doubt me. Let's keep going.
+
+**Link to work:**
+No commits today.
