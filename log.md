@@ -200,3 +200,16 @@ As I look through these problems in this PSet, the problem starts getting less a
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 14: [02/25/2019]
+
+**Today's Progress:**
+* structs
+
+**Thoughts:**
+I'm working through this PSet trying to figure out structs. I had misunderstood them when I was originally working with them thinking that there were variables in them that are now defined, but in actuality, the struct actually creates a type of variable such as making a new type like an int. This misunderstanding delayed my progress but now that I'm clear on what I have to work with, I can now move forward with the PSet.
+
+**Link to work:**
+No commits today.
