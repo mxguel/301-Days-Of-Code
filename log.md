@@ -213,3 +213,18 @@ I'm working through this PSet trying to figure out structs. I had misunderstood 
 
 **Link to work:**
 No commits today.
+
+
+
+
+### Day 15: [02/26/2019]
+
+**Today's Progress:**
+* bitmaps
+* manipulating while replicating files
+
+**Thoughts:**
+I finished the first part of the PSet. I think that the rest of this PSet will be much faster since I mostly understand the structs created and the file that copies files and enables us to manipulate the copy of the file. I was simply playing around with the file to solve the solution and I managed to figure out the solution. Looking forward to finishing the PSet.
+
+**Link to work:**
+No commits today.
