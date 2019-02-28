@@ -228,3 +228,17 @@ I finished the first part of the PSet. I think that the rest of this PSet will b
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 15: [02/26/2019]
+
+**Today's Progress:**
+* Understanding bmp manipulation
+* Understanding the padding on bmp files
+
+**Thoughts:**
+I'm misunderstanding something. I don't understand why these bmp files require padding. I need to take a look at the headers and the rest of the files first before I move on. And if I understand why there's horizontal padding, I need to understand why there is no vertical padding. Hopefully tomorrow I'll have a breakthrough and move forward.
+
+**Link to work:**
+No commits today.
