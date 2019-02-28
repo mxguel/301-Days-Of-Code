@@ -231,7 +231,7 @@ No commits today.
 
 
 
-### Day 15: [02/26/2019]
+### Day 16: [02/27/2019]
 
 **Today's Progress:**
 * Understanding bmp manipulation
