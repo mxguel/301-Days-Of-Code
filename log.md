@@ -242,3 +242,19 @@ I'm misunderstanding something. I don't understand why these bmp files require p
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 17: [02/28/2019]
+
+**Today's Progress:**
+* More understanding bmp manipulation (resize)
+* Understanding padding
+* Error checking in resize
+* Drew out plan to finish resize
+
+**Thoughts:**
+I made significant progress in understand resize and formulating a plan. I might run into a few issues as I move along through the code, but I feel fairly confident that I'll be able to finish up this problem by the end of the weekend. I've identified each struct variable that I'll have to change for the newer one.
+
+**Link to work:**
+No commits today.
