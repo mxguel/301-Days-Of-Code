@@ -258,3 +258,17 @@ I made significant progress in understand resize and formulating a plan. I might
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 18: [03/01/2019]
+
+**Today's Progress:**
+* Determining manipulating constants
+* Finding out where each needs to be manipulated
+
+**Thoughts:**
+I'm starting to wonder how much debugging is going to need to be done. I'm looking at some of my code, and it looks great. But I think there might be some issues with the tranformation variable. I'm not sure if I could assign a variable the value (changed) from another struct. Regardless I think that our first prototype of this will be the separated cube. We'll see the rest of my progress over the weekend.
+
+**Link to work:**
+No commits today.
