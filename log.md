@@ -272,3 +272,16 @@ I'm starting to wonder how much debugging is going to need to be done. I'm looki
 
 **Link to work:**
 No commits today.
+
+
+### Day 19: [03/02/2019]
+
+**Today's Progress:**
+* Testing/Debugging
+* Black box vs glass box testing
+
+**Thoughts:**
+As my resources were limited today, I decided to go back to Python as I worked though some of the lecture for the next PSet. I figured I could go back and do this until I have more time to sit down and actually work through the problem of transforming that image. I still have work to do in both regards, but I think I should start developing good programming habits including writing docstrings for my functions and modularizing my programs. In the long run, this will help me become a better programmer.
+
+**Link to work:**
+No commits today.
