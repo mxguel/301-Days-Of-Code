@@ -285,3 +285,31 @@ As my resources were limited today, I decided to go back to Python as I worked t
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 20: [03/03/2019]
+
+**Today's Progress:**
+* More Testing/Debugging
+
+**Thoughts:**
+As my weekends are extremely limited and I am not able to work too much during them, I was able to finish up half of the lecture by today on testing and debugging but nothing more. I still think it's more important to be able to continue working daily rather than focusing on other negatives. Tomorrow the new week starts so I expect to have the rest of the lecture done.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 21: [03/04/2019]
+
+**Today's Progress:**
+* Even more Testing/Debugging
+* Overt v Covert bugs
+* Error messages
+
+**Thoughts:**
+I finished up the rest of the testing and debugging lecture. While a lot of this is mostly theoretical and abstract, it's important to keep a lot of these concepts in mind while approaching more and more of my courses. I think this is what I needed to be able to approach the problem in C with a fresh set of eyes and with the right mindset. I hope to be able to tackle the rest of that tomorrow as well as finish up this week's Python lectures.
+
+**Link to work:**
+No commits today.
