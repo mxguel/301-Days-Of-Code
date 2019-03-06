@@ -313,3 +313,20 @@ I finished up the rest of the testing and debugging lecture. While a lot of this
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 22: [03/05/2019]
+
+**Today's Progress:**
+* exceptions
+* assertions
+* try...else
+* raise
+* finally
+
+**Thoughts:**
+Exceptions in Python. It's interesting how they're executed in this language. In C you have a main function so you try to catch all errors that way, but not here. There seems to be more flexibility with how you catch or deal with these error messages. I think it's a little odd, but I'm starting to remember some keywords in JavaScript similar to these (or maybe identical) where other people used some of these keywords to catch error messages. I'm happy that I got to see how this is implemented in Python. It's time to move onto more PSets.
+
+**Link to work:**
+No commits today.
