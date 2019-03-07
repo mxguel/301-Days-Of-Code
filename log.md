@@ -330,3 +330,17 @@ Exceptions in Python. It's interesting how they're executed in this language. In
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 23: [03/06/2019]
+
+**Today's Progress:**
+* making copies for dictionaries
+* created functions for Scrabble type game to score a word and update a hand
+
+**Thoughts:**
+I used assert here to contain some of the potential return errors of a function although I don't think that we'll get an error at all in its current state. I think it's best to leave it there for any future modifications. This is another PSet where we're breaking down a bigger problem into modular functions. It's great how we get to develop these into a bigger program, and I hope to be able to do this on my own soon enough without the additional guidance.
+
+**Link to work:**
+No commits today.
