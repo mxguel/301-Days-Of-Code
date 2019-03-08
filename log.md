@@ -344,3 +344,17 @@ I used assert here to contain some of the potential return errors of a function 
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 24: [03/07/2019]
+
+**Today's Progress:**
+* finished Scrabble simple text game
+* greedy algorithms
+
+**Thoughts:**
+I finished up building the text Scrabble game. I developed 2 main functions: one that enables the user to play (player's code) and one that enables the computer to play (computer's code). I was moving along swiftly until I ran into a bug in the player's code. Apparently I wasn't manipulating the dictionary that I needed to manipulate. Afterwards, I was able to work on the computer's code which gave me more trouble. I had to edit the code a few times to iron out the bugs, but I managed to do it. I also briefly misunderstood the instructions. I believe the prompt was a little misleading so my code isn't entirely clean even though it works properly. Maybe I'll clean it up over the weeked and commit it to a new repo on here for my first project based commit.
+
+**Link to work:**
+No commits today.
