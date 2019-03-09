@@ -358,3 +358,17 @@ I finished up building the text Scrabble game. I developed 2 main functions: one
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 25: [03/08/2019]
+
+**Today's Progress:**
+* Object oriented programming
+* Classes
+
+**Thoughts:**
+We're starting classes and objects. My friend had described objects as being what allows us to model the world as we understand it in a way that the computer can process it. I'm excited to get going on this. They remind me of structs in C, but conceptually they seem a bit tougher. Maybe I just wasn't in the right mind set to approach this. I think what I need is a fresh pair of eyes on it tomorrow. The syntax is also something I need to take a look at to understand more about how these work.
+
+**Link to work:**
+No commits today.
