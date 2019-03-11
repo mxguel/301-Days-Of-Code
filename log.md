@@ -372,3 +372,30 @@ We're starting classes and objects. My friend had described objects as being wha
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 26: [03/09/2019]
+
+**Today's Progress:**
+* Syntax of classes
+
+**Thoughts:**
+I still have yet to wrap my head around how the syntax for this works so I took time today to go through my notes and refresh my memory while also trying to understand every concept presented in the notes. It might take me a couple of days to truly understand classes, but that's how I felt about structs. I should be fine; I just need more time with them.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 27: [03/10/2019]
+
+**Today's Progress:**
+* Continuation of classes syntax
+* Beginning of methods
+
+**Thoughts:**
+I'm reviewing these notes to make sure that when I go through the video lectures again, I will understand everything. When I first watched a few of them, everything felt like it was going over my head so I'd rather employ the strategy I was using for CS50 to continue working on this. I'll be able to run through the entire lecture tomorrow.
+
+**Link to work:**
+No commits today.
