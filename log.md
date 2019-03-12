@@ -399,3 +399,17 @@ I'm reviewing these notes to make sure that when I go through the video lectures
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 28: [03/11/2019]
+
+**Today's Progress:**
+* Continued syntax of classes
+* Continue learning about methods
+
+**Thoughts:**
+I'm finally bringing together methods and the syntax of classes and their attributes. Instances of classes can be referred to by different variables via '=' so I have to look at that example again tomorrow. It reminds me of what was happening with lists earlier in the course. I have to make sure I understand how this happens so I don't end up making bigger mistakes in my code later when working on my own stuff. Looking forward to a full day of code tomorrow.
+
+**Link to work:**
+No commits today.
