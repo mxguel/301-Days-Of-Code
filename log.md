@@ -413,3 +413,17 @@ I'm finally bringing together methods and the syntax of classes and their attrib
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 29: [03/12/2019]
+
+**Today's Progress:**
+* Classes
+* Defining attributes and methods in classes
+
+**Thoughts:**
+As I'm finally getting the opportunity to work with classes, I'm catching on, but it's taking me a little more time than it usually does. I think that since I haven't been exposed to these before too much, it's taking more time for it to sink in. Tomorrow I'll get a chance to work with extended examples. We'll see how that goes.
+
+**Link to work:**
+No commits today.
