@@ -441,3 +441,17 @@ Finished up my work with classes as I looked at different hierarchies and a comp
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 30: [03/13/2019]
+
+**Today's Progress:**
+* Examples of classes
+* Learning through Python Tutor and exercises
+
+**Thoughts:**
+The hierarchy portion of the classes, while intuitive, was confusing. I took some time today to review and try to understand what was happening when. Initiatlizing an instance can provide more information than initially useful which threw me off. You can set a variable to None and change the default later with a setter. I'm working through an example that I started after working through those mind-boggling examples. We'll get to work through more hierarchy examples next.
+
+**Link to work:**
+No commits today.
