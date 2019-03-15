@@ -427,3 +427,17 @@ As I'm finally getting the opportunity to work with classes, I'm catching on, bu
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 30: [03/13/2019]
+
+**Today's Progress:**
+* Classes
+* Examples of hierarchies
+
+**Thoughts:**
+Finished up my work with classes as I looked at different hierarchies and a complex example. The example emphasized superclasses and subclasses and we got to look at different ways of initializing subclasses by using the superclass's initialization method and building on it within the class's initialization method. I feel that this will be important in the PSet as we keep working with classes and look at other examples.
+
+**Link to work:**
+No commits today.
