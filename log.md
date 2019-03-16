@@ -444,7 +444,7 @@ No commits today.
 
 
 
-### Day 30: [03/13/2019]
+### Day 31: [03/14/2019]
 
 **Today's Progress:**
 * Examples of classes
@@ -452,6 +452,22 @@ No commits today.
 
 **Thoughts:**
 The hierarchy portion of the classes, while intuitive, was confusing. I took some time today to review and try to understand what was happening when. Initiatlizing an instance can provide more information than initially useful which threw me off. You can set a variable to None and change the default later with a setter. I'm working through an example that I started after working through those mind-boggling examples. We'll get to work through more hierarchy examples next.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 32: [03/15/2019]
+
+**Today's Progress:**
+* More examples
+* Building classes
+* Hierarchies
+* pass statement
+
+**Thoughts:**
+I'm a little stuck on an example I'm working on. There's a speak method that we're assigning to two different classes; one is a subclass of another class. For some reason, the subclass uses its superclass's function and adds more to it to modify the function. I'm unsure why or how this is happening, but I'm sure that once I look at it with a fresh mind tomorrow, I'll be able to understand more of what is going on. Its very helpful to work through another example since this topic seems to be so much more complex than some of the previous ones. I'm going to take my time but work efficiently to keep on leaning this.
 
 **Link to work:**
 No commits today.
