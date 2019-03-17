@@ -471,3 +471,16 @@ I'm a little stuck on an example I'm working on. There's a speak method that we'
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 33: [03/16/2019]
+
+**Today's Progress:**
+* Scrabble with classes
+
+**Thoughts:**
+We're doing something interesting now as a way to practice more with classes. We're working on the Scrabble problem but with classes now. It'll be interesting how I can use classes to essentially implement the same problem I worked on previously. Other than that, I reviewed more examples with classes and hierarchies.
+
+**Link to work:**
+No commits today.
