@@ -484,3 +484,17 @@ We're doing something interesting now as a way to practice more with classes. We
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 34: [03/17/2019]
+
+**Today's Progress:**
+* Scrabble with classes
+* Exercises based on Scrabble game
+
+**Thoughts:**
+I wasn't able to get too much done today. Basically I was able to look at the problem again from yesterday and worked on a couple of exercises based off of that problem. Tomorrow is Monday, and it's a new week so I'm looking forward to working on finishing up classes and moving onto the next topics.
+
+**Link to work:**
+No commits today.
