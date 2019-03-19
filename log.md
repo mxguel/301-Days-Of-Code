@@ -498,3 +498,19 @@ I wasn't able to get too much done today. Basically I was able to look at the pr
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 35: [03/18/2019]
+
+**Today's Progress:**
+* Yield
+* Next
+* Core class concepts
+* Classes with instances of other classes within
+
+**Thoughts:**
+I'm done working with classes for now. I'm saying for now because I feel that this is going to be a core concept that the rest of all my Python programming will take off from. I'm having trouble completely understanding yield and next so I hope to review that with a fresh mind tomorrow. Once I'm rested and get off to a good start, I'm sure that it will all come together well. I'm looking to move onto the next topic tomorrow. We'll see how this goes.
+
+**Link to work:**
+No commits today.
