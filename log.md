@@ -514,3 +514,16 @@ I'm done working with classes for now. I'm saying for now because I feel that th
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 36: [03/19/2019]
+
+**Today's Progress:**
+* Caesar cipher with classes
+
+**Thoughts:**
+I thought I was done working with classes, but I forgot about the PSet that I needed to do. I've almost finished working on the PSet. I need to do some more work to solidify these classes concepts. I'm thinking I could start incorporating codewars pretty soon with Python so that I could get some practice and then also tutor people on Python Tutor. I'm also getting more productive again albeit later in the evening. We'll see how the next few days go.
+
+**Link to work:**
+No commits today.
