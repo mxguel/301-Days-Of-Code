@@ -543,3 +543,19 @@ A somewhat review of some of the stuff I had seen in CS50 however this is much m
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 38: [03/21/2019]
+
+**Today's Progress:**
+* Complexity of common python functions
+* Power set
+* Search algorithms
+* Indirection
+
+**Thoughts:**
+I took some time today to review the more difficult parts of the lecture from yesterday as well as work on some exercises pertaining to the lecture. I also did the final PSet of MIT Python which wasn't actually a coding problem, but instead it was more exercises focused on testing my understanding of the concepts. It was a little weird but much needed since I was limited on time. Indirection is another word for dereferencing from what I understand. It's a little odd calling it this if that's the case. I didn't initially understand what it was until I read the Wikipedia article later in the evening. Tomorrow I should finish off the rest of the sorting lectures.
+
+**Link to work:**
+No commits today.
