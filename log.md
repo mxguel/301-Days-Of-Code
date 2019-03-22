@@ -527,3 +527,19 @@ I thought I was done working with classes, but I forgot about the PSet that I ne
 
 **Link to work:**
 No commits today.
+
+
+
+
+### Day 37: [03/20/2019]
+
+**Today's Progress:**
+* Finish Caesar cipher
+* Big O
+* Complexity classes
+
+**Thoughts:**
+A somewhat review of some of the stuff I had seen in CS50 however this is much more in detail explaining everything in much more detail (except for sort as that is next). I took a look at the complexity of common Python functions and don't quite have a grasp as to what everything here means or how it works. I also need to go back to review the power set to see how that works. I took some time to understand what was happening there, but I wasn't able to fully picture the different recursions or why it was an exponential complexity problem. I started the intro to searching algos and sorting and will have tomorrow to learn more about those.
+
+**Link to work:**
+No commits today.
