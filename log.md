@@ -559,3 +559,18 @@ I took some time today to review the more difficult parts of the lecture from ye
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 39: [03/22/2019]
+
+**Today's Progress:**
+* Codewars sign up and practice
+* Bogosort
+* New keywords
+
+**Thoughts:**
+I started off signing up for Codewars. I figured since I'm closing in on finishing this course that I could sign up and start practicing for the future. I noticed there and later in the stackoverflow search that my peers were using lambda and enumerate to do some type of iteration I believe. I'm not quite sure what these do, but I copied a function is_sorted from Stackoverflow to try out the bogosort on a 10 element list. It's still running. It's been running for about 20 minutes now so I'm wondering how long it'll take to be sorted. I've got more videos to watch tomorrow, and I'm hoping an early rise can help me get a good start to my day to tackle what I want to get done over the weekend.
+
+**Link to work:**
+No commits today.
