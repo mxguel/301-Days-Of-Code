@@ -574,3 +574,17 @@ I started off signing up for Codewars. I figured since I'm closing in on finishi
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 40: [03/23/2019]
+
+**Today's Progress:**
+* Bubble sort
+* Selection sort
+
+**Thoughts:**
+Looked at bubble sort and selection sort today. It was a short day. I watched the videos and wrote out the code for bubble sort. I should be able to finish the rest of the sorting lectures by tomorrow to get ready for the final.
+
+**Link to work:**
+No commits today.
