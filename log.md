@@ -588,3 +588,16 @@ Looked at bubble sort and selection sort today. It was a short day. I watched th
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 41: [03/24/2019]
+
+**Today's Progress:**
+* Sorting algorithms review
+
+**Thoughts:**
+I got a chance to play with some of the code for selection and bubble sort. I briefly looked at other sorting algorithms as well. Tried to write selection sort a little differently, but maybe I need a rested mind to be able to do that well. I'll get some rest and finish the rest of the lectures for the course tomorrow.
+
+**Link to work:**
+No commits today.
