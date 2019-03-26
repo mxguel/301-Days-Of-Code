@@ -601,3 +601,19 @@ I got a chance to play with some of the code for selection and bubble sort. I br
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 42: [03/25/2019]
+
+**Today's Progress:**
+* Sorting algorithms
+* Merge sort
+* Sets
+* Pylab plotting
+
+**Thoughts:**
+I finished up the sorting section of the course. I finally understand why merge sort has an nlogn complexity. I also got to go to a Python meetup today where we moved swiftly through object types. It was a nice review and a chance to meet other developers interesting in learning about Python although most of them seemed to have extensive knowledge in other areas of programming. I worked through the last part of the course as well which was plotting with Pylab. Some of this reminds me a bit of R except I remember R being a little more intuitive where you can modify a plot all in one line. This is going to the base for the 2nd part of the course, but the 1st part of the course ends tomorrow morning with the final.
+
+**Link to work:**
+No commits today.
