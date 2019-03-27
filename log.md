@@ -617,3 +617,20 @@ I finished up the sorting section of the course. I finally understand why merge 
 
 **Link to work:**
 No commits today.
+
+
+
+
+### Day 43: [03/26/2019]
+
+**Today's Progress:**
+* More plotting in Python
+* Finished MITx 6.00.1x today
+* Reviewing C and pointers
+* Back to PSet 3 on CS50
+
+**Thoughts:**
+I finished up the final. I got a couple of questions wrong and I struggled through one of the coding problems simply because I didn't understand the prompt. I looked at it for a while before I finally understood what the problem wanted and then the solution just came to me. I'm proud of the first step in my journey, but there is much more work to be done. I'm back to CS50 and C. I feel good about it actually. I started reviewing C and it was all coming back to me. I also felt like I understood everything better this time around. Maybe some of the Python knowledge is seeping into C. Tomorrow will be a good day to get that resize problem going.
+
+**Link to work:**
+No commits today.
