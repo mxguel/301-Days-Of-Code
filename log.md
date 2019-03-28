@@ -634,3 +634,18 @@ I finished up the final. I got a couple of questions wrong and I struggled throu
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 44: [03/27/2019]
+
+**Today's Progress:**
+* Reviewing CS50
+* Pointers and dynamic memory allocation
+* C syntax
+
+**Thoughts:**
+I took time today to practice some C syntax and watch more of the shorts to refresh my mind on CS50 and to get ready to work on the resize problem. I wasn't initially comfortable going back to the problem right away since it's been a bit that I revisited C because of the Python course. I sense that I feel much more comfortable with C now that I finished up the Python course and that I'm more comfortable with a language. I noticed today also that I can't have a list with different data types like in Python. An array is declared for a certain type which is interesting. Maybe I'm wrong about this now, but I'm sure if I am, I'll correct myself on here once I find out.
+
+**Link to work:**
+No commits today.
