@@ -649,3 +649,16 @@ I took time today to practice some C syntax and watch more of the shorts to refr
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 45: [03/28/2019]
+
+**Today's Progress:**
+* Resize problem
+
+**Thoughts:**
+This problem was and still is intimidating, but I have it on the ropes. I had to figure out what part of the file needed to be modified in the copy (including the header variables). Once I re-understood the file type, I was able to modify the appropriate variables. However, I was modifying some too early and others not early enough. I didn't realize that I needed another padding variable, but after noticing how off my resized image was, I noticed that I needed a new one. I am almost done with this problem. I have a problem with the loop and the padding that I need to fix tomorrow to finish this up. I'm excited to see how this turns out.
+
+**Link to work:**
+No commits today.
