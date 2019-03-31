@@ -662,3 +662,16 @@ This problem was and still is intimidating, but I have it on the ropes. I had to
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 46: [03/29/2019]
+
+**Today's Progress:**
+* Resize problem
+
+**Thoughts:**
+I'm stuck on the resize problem. I was able to fix some of the looping issues and found that I should probably use fseek to be able to read the appropriate line and move to the next line at the approrpiate times. For some reason, the loop works at resize value n = 4 and on no other value so I have to study to see what I'm doing wrong and fix it.
+
+**Link to work:**
+No commits today.
