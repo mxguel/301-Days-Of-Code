@@ -683,7 +683,21 @@ No commits today.
 **Today's Progress:**
 * Resize problem
 
+**Thoughts:**
 I'm still stuck on this resize problem. I'm not sure exactly what's wrong, but I'm thinking that maybe one of my loops is wrong. I have to compare everything to see what exactly I'm doing wrong.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 48: [03/31/2019]
+
+**Today's Progress:**
+* Resize problem
+
+**Thoughts:**
+I finally finished the resize problem. I was having an issue with the fseek function after all. I didn't realized that I was using units of bytes instead of bytes * pixel size to move back to the beginning of each line. I finally got everything working properly after debugging and trying to solve for a long time. Now I ran into another issue: the file size in the header isn't being modified. I'll take a look tomorrow and submit it once I figure out why it's working that way.
 
 **Link to work:**
 No commits today.
