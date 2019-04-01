@@ -675,3 +675,15 @@ I'm stuck on the resize problem. I was able to fix some of the looping issues an
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 47: [03/30/2019]
+
+**Today's Progress:**
+* Resize problem
+
+I'm still stuck on this resize problem. I'm not sure exactly what's wrong, but I'm thinking that maybe one of my loops is wrong. I have to compare everything to see what exactly I'm doing wrong.
+
+**Link to work:**
+No commits today.
