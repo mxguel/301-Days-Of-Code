@@ -701,3 +701,16 @@ I finally finished the resize problem. I was having an issue with the fseek func
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 49: [04/01/2019]
+
+**Today's Progress:**
+* Resize problem corrections
+
+**Thoughts:**
+It turns out that my solution for the resize problem wasn't correct. The header's parameters were off and I had to take a while today to see why everything was really off. I missed taking the absolute value of biHeight among other errors that threw off my program. I am finally done though and now I can finally move onto other problems.
+
+**Link to work:**
+No commits today.
