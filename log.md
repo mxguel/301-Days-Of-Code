@@ -714,3 +714,18 @@ It turns out that my solution for the resize problem wasn't correct. The header'
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 50: [04/02/2019]
+
+**Today's Progress:**
+* Recover problem
+* Formulate plan with pseudocode
+* Review file pointers and fread, fwrite
+
+**Thoughts:**
+50 days into my journey and a long way to go, but I'm excited to keep going. I haven't felt this excited about chasing a goal since running the Big Sur Marathon. I started the recover problem today. We're trying to recover JPEG files from an SD card. I hadn't quite had a chance to write my own fwrite and fread functions and deal with file pointers because the previous problem had done a lot of that work. Now I get to do this all on my own including formulating a plan. I actually really like this problem set because they're holding your hand less and less with each problem. I've written my pseudocode and found that I have to fix somethign tomorrow. I'll have a chance to work for a good portion of the day before going to see Haseeb Quereshi speak. I hope I could make a lot of progress tomorrow.
+
+**Link to work:**
+No commits today.
