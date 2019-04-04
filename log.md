@@ -729,3 +729,16 @@ No commits today.
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 51: [04/03/2019]
+
+**Today's Progress:**
+* Recover
+
+**Thoughts:**
+I was able to write all of the code needed for the program. I incorporated the logic into it, but now I'm going to have to debug it tomorrow and fix the segmentation faults I'm getting. I'm also not sure if I'm using the right variable type for the buffer for reading the file so I'll have to look into that tomorrow.
+
+**Link to work:**
+No commits today.
