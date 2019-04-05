@@ -742,3 +742,19 @@ I was able to write all of the code needed for the program. I incorporated the l
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 51: [04/03/2019]
+
+**Today's Progress:**
+* Recover
+* valgrind
+* More structs
+* Started on linked lists
+
+**Thoughts:**
+I finished up with the recover program to recover deleted JPEG files from a disk. Started on the new section that is focusing on linked lists, structs, and some stuff to come later. I'm surprised how quickly I moved through the problem. It seems that I wasn't checking whether certain values were NULL at appropriate times and managed to fix it quite quickly. The new lecture is complex too, but I'm hoping it will give me a better understanding and better intuition of when to use malloc.
+
+**Link to work:**
+No commits today.
