@@ -745,7 +745,7 @@ No commits today.
 
 
 
-### Day 51: [04/03/2019]
+### Day 52: [04/04/2019]
 
 **Today's Progress:**
 * Recover
@@ -755,6 +755,20 @@ No commits today.
 
 **Thoughts:**
 I finished up with the recover program to recover deleted JPEG files from a disk. Started on the new section that is focusing on linked lists, structs, and some stuff to come later. I'm surprised how quickly I moved through the problem. It seems that I wasn't checking whether certain values were NULL at appropriate times and managed to fix it quite quickly. The new lecture is complex too, but I'm hoping it will give me a better understanding and better intuition of when to use malloc.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 53: [04/05/2019]
+
+**Today's Progress:**
+* Linked lists
+* Structs
+
+**Thoughts:**
+Spent the short amount of time I had today to code reviewing linked lists and structs and their properties. I should be able to finish watching the rest of the lecture by Sunday to move onto the shorts then the PSet.
 
 **Link to work:**
 No commits today.
