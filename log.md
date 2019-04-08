@@ -772,3 +772,17 @@ Spent the short amount of time I had today to code reviewing linked lists and st
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 54: [04/06/2019]
+
+**Today's Progress:**
+* Linked lists
+* Structs
+
+**Thoughts:**
+Another short day reviewing linked lists and structs. I won't be able to finish watching the lecture by Sunday since I want to understand how this syntax actually works here. It's throwing me off how the structs syntax works for linked lists so I'll take time to understand before moving on.
+
+**Link to work:**
+No commits today.
