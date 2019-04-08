@@ -786,3 +786,16 @@ Another short day reviewing linked lists and structs. I won't be able to finish 
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 55: [04/07/2019]
+
+**Today's Progress:**
+* Linked lists concepts
+
+**Thoughts:**
+I took the short day to review and reiterate some of the core concepts of linked lists in C. I can now move onto working with different coding examples tomorrow as well as looking at hash tables.
+
+**Link to work:**
+No commits today.
