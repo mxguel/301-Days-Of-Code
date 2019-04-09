@@ -799,3 +799,18 @@ I took the short day to review and reiterate some of the core concepts of linked
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 56: [04/08/2019]
+
+**Today's Progress:**
+* Hash tables
+* Trees
+* Tries
+
+**Thoughts:**
+I finished up watching the final lecture on C which went over hash tables, trees, and tries. It looks like we'll be implementing a spellchecker in C using either hash tables or tries so I'm glad I'll get to practice more with both concepts. I'll go with the hash tables first then take some time to review some of the earlier concepts by doing the more challenging problem in their PSet. Or maybe I'll delay that a little. I haven't decided when I want to tackle those problems actually. I do have to watch the shorts tomorrow which will be shorter than when I watched the shorts for pointers. Looking forward to a good day of coding tomorrow.
+
+**Link to work:**
+No commits today.
