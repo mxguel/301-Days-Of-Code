@@ -814,3 +814,20 @@ I finished up watching the final lecture on C which went over hash tables, trees
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 57: [04/09/2019]
+
+**Today's Progress:**
+* Aliasing types
+* Data structures
+* Singly-linked lists
+* Hash tables
+* Tries
+
+**Thoughts:**
+I reviewed the whole second half of the week's lecture so that I could really internalize some of the concepts. I felt a little unsure of my understanding so I decided to take the time to go over the video lecture. I also started the shorts and learned about aliasing which we've been doing with structs for a bit. I'll continue working with this as I explore structs a lot more with linked lists, hash tables, and tries. I've reviewed those data structures and their properties as well, especially noting their applications. Tomorrow, I'll cement those concepts to move onto the PSet.
+
+**Link to work:**
+No commits today.
