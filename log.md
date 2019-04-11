@@ -831,3 +831,18 @@ I reviewed the whole second half of the week's lecture so that I could really in
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 58: [04/10/2019]
+
+**Today's Progress:**
+* Singly-linked lists
+* Hash tables
+* Tries
+
+**Thoughts:**
+Finished up reviewing the data structures introduced in this section. Started working on the PSet to build a spell checker using a hash table. We're prioritizing speed here so I'll have to watch the asymptotic runtime as well as the hash table function I use. I get to play around with this tomorrow. I've taken some notes to break the problem into managable bits, but I'll review the problem tomorrow and get to work on building it.
+
+**Link to work:**
+No commits today.
