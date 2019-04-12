@@ -846,3 +846,22 @@ Finished up reviewing the data structures introduced in this section. Started wo
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 59: [04/11/2019]
+
+**Today's Progress:**
+* Hash functions
+* Loader function
+
+**Thoughts:**
+With an interview today for a TA role, I took time to review Python and SQL to prepare as well as some basic JS properties. I'm nearing the end of working with C and we were introduced the ternary operator as well as #define to find and replace values. I started looking at different hash functions to explore increasing the speed of running this program. 
+
+#include <sys/resource.h>
+#include <sys/time.h>
+
+These two.... They introduce a struct that will help us time the whole program and with a double precision decimal number, we can measure the speed of different hash functions. I'm working through the load function currently to be able to load the dictionary based on the hash function. Understanding speller.c took some time also, and even then, I have some stuff that I need to look into in that file. I've made comments on it to review later. I've started incorporating VS Code into my workflow so that I could work on modifying the programs primarily on there and moving testing onto the IDE once I'm closer to my solution.
+
+**Link to work:**
+No commits today.
