@@ -865,3 +865,16 @@ These two.... They introduce a struct that will help us time the whole program a
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 60: [04/12/2019]
+
+**Today's Progress:**
+* Spell checker
+
+**Thoughts:**
+I don't understand fscanf. I think I understand it, but I don't fully understand what it's doing and how it's getting words instead of chars individually. And I'm not sure why the arguments are set up as they are. I have to look into it tomorrow. It's holding back my progress into working on this spell checker, but I drew a diagram noting what I have to code tomorrow as well.
+
+**Link to work:**
+No commits today.
