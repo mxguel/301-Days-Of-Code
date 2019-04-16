@@ -878,3 +878,30 @@ I don't understand fscanf. I think I understand it, but I don't fully understand
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 61: [04/13/2019]
+
+**Today's Progress:**
+* Spell checker
+
+**Thoughts:**
+I took more time today to study fscanf and found some much more helpful documentation explaining it. I also ran my program through the debugger to understand how the the function is working with the parameters to store strings into the buffer. I'm not sure how it skips over spaces. I'm not sure if something is being converted or how this is working but hopefully this documentation will help me figure that out.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 62: [04/14/2019]
+
+**Today's Progress:**
+* Spell checker
+* pylab
+
+**Thoughts:**
+fscanf actually skips over white spaces until it reaches EOF. I finally know how this works, and unfortunately all I had time to do today was read documentation and start reviewing some Python and pylab. I have to do some Python tomorrow to start working on 6.00.2x. I think I'll start working on that tomorrow instead.
+
+**Link to work:**
+No commits today.
