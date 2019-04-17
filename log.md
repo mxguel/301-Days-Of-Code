@@ -905,3 +905,32 @@ fscanf actually skips over white spaces until it reaches EOF. I finally know how
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 63: [04/15/2019]
+
+**Today's Progress:**
+* pylab
+* optimization problems
+
+**Thoughts:**
+I reviewed more pylab from MIT 6.00.1x, and I started 6.00.2x today. We're starting off the course with optimization problems, and it looks like we'll be taking a look at greedy algorithms along with other types of optimization algorithms. The basic principle of optimization is accuracy vs efficiency.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 64: [04/16/2019]
+
+**Today's Progress:**
+* lambda functions
+* greedy algorithms
+* brute force optimization
+
+**Thoughts:**
+I finally got to learn about lambda functions which takes me back to some of the codewars challenges I was doing. Some of the solutions on there implemented lambda functions so it was nice to learn about how to make anonymous functions in a pinch. I got to apply a lambda function as an argument to another function. I also looked at greedy algorithms again. The last time I saw a greedy algorithm, it wasn't properly labeled as one, but I identified it. It was when I made a scrabble game. I got to compare that with a brute force optimization solution where the power set made its unanounced return. I don't understand how this function implementing this algorithm for optimization is working though. Professor described that we're not building out a tree in an example since we're storing everything in a variable result. I'm not sure what he means by this so I'll try to understand the recursion happening to move on.
+
+**Link to work:**
+No commits today.
