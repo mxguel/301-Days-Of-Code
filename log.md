@@ -948,3 +948,18 @@ I finally understood what the professor meant by not building out the tree and i
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 66: [04/18/2019]
+
+**Today's Progress:**
+* memoization
+* identifying overlapping subproblems
+* graphing
+
+**Thoughts:**
+I finished learning and reviewing concepts of dynamic programming. I went over the last lecture today while working on some problems involving dynamic programming. Something I didn't understand in the lecture examples was identifying overlapping subproblems, but there were shortcuts taken to identify identical subproblems. Using the concept of depth-first, left-most tree building, I was able to condense the remaining items left to consider based on the amount of items left to consider and not necessarily the actual items left to consider. It was tricky until I went over the notes and the lecture a couple of extra times. I started looking at using graphs to model real world problems.
+
+**Link to work:**
+No commits today.
