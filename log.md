@@ -934,3 +934,17 @@ I finally got to learn about lambda functions which takes me back to some of the
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 65: [04/17/2019]
+
+**Today's Progress:**
+* dynamic programming
+* memoization
+
+**Thoughts:**
+I finally understood what the professor meant by not building out the tree and instead storing the result. Essentially we're not building out the individual lists here, and we're storing values instead. Memoization made a return and this time we're giving the method used here a name called dynamic programming. We utilitized this for the knapsack problem, and a more complex topic explored here was the 0/1 knapsack problem where we took some interesting shortcuts since we're using a left most, depth most build. We are able to take the length of the remaining values. We identified the problem as finding optimal items to take in. The available weight depends on total weight of items taken. I've taken notes to keep coming back to this at a later time when reviewing. I have to review the search tree and other concepts tomorrow.
+
+**Link to work:**
+No commits today.
