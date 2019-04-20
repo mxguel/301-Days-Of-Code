@@ -963,3 +963,16 @@ I finished learning and reviewing concepts of dynamic programming. I went over t
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 67: [04/19/2019]
+
+**Today's Progress:**
+* graphs and digraphs
+
+**Thoughts:**
+Today was spent exploring how to build classes to represent graphs and digraphs. It was mainly a conceptual day where I also spent time reviewing some core concepts of classes. It seems we'll be using classes more and more over the course which is promising because I felt like I still needed more practice and needed to learn more about them. Tomorrow will be a heavy workload day.
+
+**Link to work:**
+No commits today.
