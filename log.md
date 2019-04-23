@@ -976,3 +976,30 @@ Today was spent exploring how to build classes to represent graphs and digraphs.
 
 **Link to work:**
 No commits today.
+
+
+
+### Day 68: [04/20/2019]
+
+**Today's Progress:**
+* graphs and digraphs
+
+**Thoughts:**
+I spent my time finishing my work with graphs and digraphs looking at the syntax to make sure I understand the defined classes very well. I also started taking a look at the concepts of finding the shortest path for both weighted and unweighted edges.
+
+**Link to work:**
+No commits today.
+
+
+
+### Day 69: [04/21/2019]
+
+**Today's Progress:**
+* BFS
+* DFS
+
+**Thoughts:**
+Spent my day really digging into BFS and DFS concepts. I specifically looked at the syntax for DFS, but have more to review tomorrow.
+
+**Link to work:**
+No commits today.
